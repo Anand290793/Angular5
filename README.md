@@ -16,5 +16,6 @@ ANGULAR CLI
 
 https://angular.io/tutorial
 
+ng serve --open {to run project and listen on default localhost:4200}
 npm install -g @angular/cli  {to install angular cli globally}
 ng serve --host 0.0.0.0 --port 4201 {to change  listening port and host}
