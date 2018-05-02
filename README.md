@@ -9,6 +9,7 @@ git add --all
 git commit -m "<MSG>"
 git push
 git pull
+rm -f ./.git/index.lock
 
 
 ANGULAR CLI
@@ -16,3 +17,4 @@ ANGULAR CLI
 https://angular.io/tutorial
 
 npm install -g @angular/cli  {to install angular cli globally}
+ng serve --host 0.0.0.0 --port 4201 {to change  listening port and host}
