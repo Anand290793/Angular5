@@ -1,7 +1,7 @@
 GIT COMMANDS
 
 git init
-git clone <URL>
+git clone <URL> from your git repositiory
 cd <PROJECT_FOLDER>
 git status
 git add .
